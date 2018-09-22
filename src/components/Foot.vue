@@ -1,7 +1,7 @@
 <template>
   <div class="footer">
     <div class="wrapper">
-      <el-row :gutter="24" style="padding: 30px 0 40px;border-bottom: 1px solid rgba(0, 0, 0, 0.2)">
+      <el-row  style="padding: 30px 0 40px;border-bottom: 1px solid rgba(0, 0, 0, 0.2)">
         <el-col :span="6">
           <div class="top-content flex">
             <img src="https://nqtown-prod.oss-cn-hangzhou.aliyuncs.com/20180911-1536635061542050140.png" alt="">

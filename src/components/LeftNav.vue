@@ -1,5 +1,5 @@
 <template>
-  <div>left-nav</div>
+  <div class="left-nav">left</div>
 </template>
 
 <script>
@@ -8,6 +8,9 @@
   }
 </script>
 
-<style scoped>
-
+<style scoped lang="less">
+  .left-nav {
+    position: absolute;
+    left: -30px;
+  }
 </style>
